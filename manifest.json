@@ -6,6 +6,7 @@
   "description": "Mensajería a canales y usuarios de Slack mediante una app de bot: enviar mensajes y mensajes directos, consultar y listar canales",
   "description_en": "Messaging to Slack channels and users through a bot app: send messages and direct messages, get and list channels",
   "category": "messaging",
+  "icon": "icon.svg",
   "category_en": "messaging",
   "keywords": ["slack", "bot", "mensajería", "messaging", "canal", "channel", "usuario", "user", "dm", "mensaje directo", "direct message", "notificación", "notification"],
   "library": {
